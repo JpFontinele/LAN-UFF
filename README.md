@@ -2,12 +2,12 @@
 
 **Universidade Federal Fluminense**
 **Data:** 13/07/2022
-**Professora:** Vânia
+**Professora:** Vânia Neves
 **Grupo:** Desorientados
 
 ## Descrição do Projeto
 
-O projeto LAN-UFF foi desenvolvido como parte do curso de Programação Orientada a Objetos da Universidade Federal Fluminense. O objetivo principal é criar uma solução eficiente para o monitoramento e gerenciamento dos computadores disponíveis na lan house da instituição, que também poderá ser utilizado para outras faculdades, escolas e outras instituições.
+O projeto LAN-UFF foi desenvolvido como parte do curso de Programação Orientada a Objetos da Universidade Federal Fluminense. O objetivo principal é criar uma solução eficiente para o monitoramento e gerenciamento dos computadores disponíveis da instituição, que também poderá ser utilizado para outras faculdades, escolas e outras instituições.
 
 ## Divisão de Responsabilidades
 
@@ -24,4 +24,4 @@ A estruturação do projeto foi distribuída entre os membros do grupo Desorient
 
 ##
 
-Agradecemos pela oportunidade de desenvolver este projeto e contribuir para a melhoria do ambiente de estudo e trabalho na lan house da UFF.
+Agradecemos pela oportunidade de desenvolver este projeto e poder talvez contribuir para a melhoria do ambiente de estudo e trabalho com os computadores da UFF.
